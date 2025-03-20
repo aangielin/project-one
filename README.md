@@ -108,4 +108,4 @@ QUERY 10 (complex): List suppliers, their contact info, and the number of instan
 Query 10 provides vital information for managers looking to monitor food ingredient inventory status and reassess supplier relationships. Since low/out-of-stock typically negatively impacts a bar’s sales, managers will be eager to evaluate which suppliers are responsible for the supply and either contact them or look for alternative suppliers. This query counts the number of distinct food items whose stock is either low or out in the database. Results are grouped by supplier ID, supplier name, and contact information for managers looking to reach out. 
 
 ## Database Information
-Name of the database: al_al52348
+Name of the database: al_ra14858
